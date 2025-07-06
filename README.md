@@ -78,20 +78,14 @@ npm start
 cd ../client
 npm install
 npm start
-```
 
-## 🌐 Live Demo
-
-🔗 [Live Website](https://your-live-link.com)
-🔗 [Frontend GitHub](https://github.com/yourusername/client)
-🔗 [Backend GitHub](https://github.com/yourusername/server)
 
 
 ## 🙋‍♂️ Author
 
 Made with ❤️ by **\[Your Name]**
-📧 Email: [yourname@example.com](mailto:yourname@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 Email: mailto:harsh850mehra@gmail.com)
+🔗 LinkedIn =  https://www.linkedin.com/in/himanshu-mehra-7a08b8228
 
 
 
