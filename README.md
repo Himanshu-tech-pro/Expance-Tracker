@@ -83,7 +83,7 @@ npm start
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by **\[Your Name]**
+Made with ❤️ by Himanshu Mehra
 📧 Email: mailto:harsh850mehra@gmail.com)
 🔗 LinkedIn =  https://www.linkedin.com/in/himanshu-mehra-7a08b8228
 
